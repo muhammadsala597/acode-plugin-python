@@ -18,4 +18,4 @@ Using this plugin you can run python codes but you cannot import other python fi
 
 ## WARNING
 
-This is plugin might not be supported in your device. To check wether this plugin is supported on your device or not, open console declare variable using 'const' key word. If it throws a error, your device doesn't support this plugin.
+This is plugin might not be supported in your device. To check whether this plugin is supported on your device or not, open console declare variable using 'const' key word. If it throws a error, your device doesn't support this plugin.
