@@ -1,4 +1,4 @@
-# acode-plugin-python
+u# acode-plugin-python
 
 Plugin to run python code in [Acode](https://acode.foxdebug.com) editor for android. This plugin uses [Pyodide](https://pyodide.org) project to run python in browser.
 
@@ -18,4 +18,4 @@ Using this plugin you can run python codes but you cannot import other python fi
 
 ## WARNING
 
-This is plugin might not be supported in your device. To check whether this plugin is supported on your device or not, open console declare variable using 'const' key word. If it throws a error, your device doesn't support this plugin.
+This plugin might not be supported on your device. To check whether this plugin is supported on your device or not, open console declare variable using 'const' key word. If it throws a error, your device doesn't support this plugin.
